@@ -24,7 +24,6 @@
   import * as UserApi from '../../api/moudle/userApi'
   import {removeUserInfo} from '../../mgr/userMgr'
   import TokenMgr from '../../mgr/TokenMgr'
-
   export default {
     data() {
       return {
